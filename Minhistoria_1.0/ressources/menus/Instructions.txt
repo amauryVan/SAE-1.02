@@ -1,0 +1,18 @@
+------------------------------------------------
+|  Bienvenue dans ...                          |                    
+|  __  __ _      _    _    _           _       |
+| |  \/  (_)_ _ | |_ (_)__| |_ ___ _ _(_)__ _  |
+| | |\/| | | ' \| ' \| (_-<  _/ _ \ '_| / _` | |
+| |_|  |_|_|_||_|_||_|_/__/\__\___/_| |_\__,_| |
+|                                              |      
+------------------------------------------------------------------------------------------------------------ 
+| Minhistoria est un jeu ludique ayant pour but de faire réviser l'Histoire aux enfants, tout en s'amusant.|
+| Le jeu propose différents modes de jeu, dans lesquels tu devras répondre à une série de questions.       | 
+| Tout en essayant d'avoir le moins de fautes possibles, afin d'obtenir un bon score.                      | 
+| Il y a plusieurs périodes historiques présentes dans le jeu, à toi de choisir celle que tu préfères !    |
+| Tu peux à tout moment visualiser tes 5 dernières parties dans le tableau des scores.                     |
+| Surtout, amuse-toi bien !                                                                                |
+|                                                                                                          | 
+| 1. Retour au menu principal                                                                              |
+------------------------------------------------------------------------------------------------------------
+
